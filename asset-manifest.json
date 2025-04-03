@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spark-landing/static/css/main.1d6bdf7c.css",
+    "main.js": "/spark-landing/static/js/main.41729d96.js",
+    "static/js/453.fef98b13.chunk.js": "/spark-landing/static/js/453.fef98b13.chunk.js",
+    "index.html": "/spark-landing/index.html",
+    "main.1d6bdf7c.css.map": "/spark-landing/static/css/main.1d6bdf7c.css.map",
+    "main.41729d96.js.map": "/spark-landing/static/js/main.41729d96.js.map",
+    "453.fef98b13.chunk.js.map": "/spark-landing/static/js/453.fef98b13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d6bdf7c.css",
+    "static/js/main.41729d96.js"
+  ]
+}
