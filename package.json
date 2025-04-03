@@ -2,7 +2,8 @@
   "name": "spark-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://[your-github-username].github.io/[your-repo-name]",
+  "homepage": "https://Luna023.github.io/spark-landing"
+,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
