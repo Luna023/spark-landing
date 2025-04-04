@@ -89,7 +89,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <p>© 2024 Spark. Creativity Reimagined.</p>
+        <p>© 2024 Tshiamo Sehoole. Creativity Reimagined.</p>
         <div className="social-links">
           <a href="#">Twitter</a>
           <a href="#">LinkedIn</a>
